@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "883893839178",
+    "project_id": "hi-bank-assestment",
+    "storage_bucket": "hi-bank-assestment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883893839178:android:f72f4df2560254a3df0db3",
+        "android_client_info": {
+          "package_name": "com.example.login_google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883893839178-44eqkamdccq14uktamqgseg8m1uq227c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_google",
+            "certificate_hash": "2a4d61d24a93ece1b50b7c1965fe6223bb62d686"
+          }
+        },
+        {
+          "client_id": "883893839178-6a9t59vjceeibdpkerqmomspvsbkdkva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4tkHcg7IerA3TlG5aOYHLeqgYcCwABic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883893839178-6a9t59vjceeibdpkerqmomspvsbkdkva.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "883893839178-i60r0fhfk4dsp4jmqk5r7q9q8d9a130t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginGoogle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
