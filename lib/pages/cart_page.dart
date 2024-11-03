@@ -48,12 +48,12 @@ class _CartPageState extends State<CartPage> {
       appBar: AppBar(
         title: const Text('Shopping Cart'),
         actions: [
-          IconButton(
-            icon: const Icon(Icons.delete),
-            onPressed: () {
-              widget.onClearCart(); // Clear cart when pressed
-            },
-          ),
+          // IconButton(
+          //   icon: const Icon(Icons.delete),
+          //   onPressed: () {
+          //     widget.onClearCart(); // Clear cart when pressed
+          //   },
+          // ),
         ],
       ),
       body: Column(
